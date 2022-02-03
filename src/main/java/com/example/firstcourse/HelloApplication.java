@@ -1,6 +1,6 @@
 package com.example.firstcourse;
 
-import com.example.firstcourse.tp1.program.Game;
+import com.example.firstcourse.tp1.service.Game;
 
 import java.io.IOException;
 
